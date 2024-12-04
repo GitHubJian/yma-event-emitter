@@ -1,0 +1,10 @@
+{
+    "name": "yma-event-emitter",
+    "version": "1.0.0",
+    "description": "事件触发与事件监听器",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
